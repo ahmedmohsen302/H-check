@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1019475688541",
+    "project_id": "loginz-d6ba5",
+    "storage_bucket": "loginz-d6ba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019475688541:android:0aed55846a00665e5121b4",
+        "android_client_info": {
+          "package_name": "com.example.loginz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019475688541-02rlgjks1vjjmq9tipv6m4btefoskb4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS2gsMJQ-_lXZ6HmPYpXwFHEjdHt2DuKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019475688541-02rlgjks1vjjmq9tipv6m4btefoskb4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
